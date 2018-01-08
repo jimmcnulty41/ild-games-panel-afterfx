@@ -1,0 +1,20 @@
+{
+  "name": "AfterEffectsScripts",
+  "version": "0.0.0",
+  "description": "My Scripts for Adobe AE CC",
+  "main": "index.js",
+  "dependencies": {
+    "copyfiles": "^1.2.0",
+    "gulp-typescript": "^3.2.3",
+    "types-for-adobe": "github:pravdomil/types-for-adobe",
+    "typescript": "^2.6.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James McNulty",
+  "license": "BSD-2-Clause"
+}
